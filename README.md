@@ -138,5 +138,6 @@ This project is open-source and available under the **MIT License**.
 
 ### Author
 Developed by **[David Kai]** -
-Check deployed project at https://plp-full-stack-development-mern-week-4.vercel.app/
+Check frontend deployed project at https://plp-full-stack-development-mern-week-4.vercel.app/
+Backend https://plp-full-stack-development-mern-week-4.onrender.com
 
